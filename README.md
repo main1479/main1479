@@ -31,6 +31,7 @@ I am a Full-stack Web Developer (MERN stack) who loves to do frontend developmen
 ![Profile views](https://gpvc.arturio.dev/main1479)  <img src="https://img.shields.io/github/followers/main1479?label=Follow" style=" float:left, margin-right:10px" />
 
 
+<img src="https://www.codewars.com/users/mainul__islam/badges/large" style=" float:left, margin-right:10px" />
 ---
 
 
