@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/main1479/main1479/raw/main/github-cover.png" width="100%" alt="Mainul Islam">
 </p>
 
+
 I am a Full-stack Web Developer (MERN stack) who loves to do frontend development. And I also enjoy building the backend but right now that's not my focused area.
  
 
@@ -33,9 +34,14 @@ I am a Full-stack Web Developer (MERN stack) who loves to do frontend developmen
 
 #### Codewars Profile
 
-<p>
+<p style="margin-bottom:20px;" width="100%">
 <img align="left" src="https://www.codewars.com/users/mainul__islam/badges/large" style="margin-right:10px" />
 </p>
+.
+
+
+
+
 
 
 ---
@@ -60,7 +66,6 @@ I am a Full-stack Web Developer (MERN stack) who loves to do frontend developmen
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/f23f0ddbe494d51a2a8543f46bbe3ede37e5c609/topics/netlify/netlify.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
----
 
 
 ---
