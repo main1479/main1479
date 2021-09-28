@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 </p>
 
 
-I am a Full-stack Web Developer (MERN stack) who loves to do frontend development. And I also enjoy building the backend but right now that's not my focused area.
+Hello there,
+I'm Mainul Islam, a passionate web designer & developer. I have pretty solid experience in frontend web development.
+I love to do web design and development, and I'm very passionate about it, that's why I have chosen web designing and development as my profession.
  
 
 
