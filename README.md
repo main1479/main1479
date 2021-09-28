@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://github.com/main1479/main1479/raw/main/github-cover.png" width="100%" alt="Mainul Islam">
+  <img src="https://raw.githubusercontent.com/main1479/main1479/main/github-cover2.png" width="100%" alt="Mainul Islam">
 </p>
 
 
