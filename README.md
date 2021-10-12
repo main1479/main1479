@@ -77,6 +77,7 @@ I love to do web design and development, and I'm very passionate about it, that'
 **Have some familiarity with:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://pbs.twimg.com/profile_images/1124418991240310784/Tg7Mrqk2.png"></code>
 <code><img height="20" src="https://cdn.shopify.com/assets/images/logos/shopify-bag.png"></code>
 
