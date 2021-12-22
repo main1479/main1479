@@ -36,12 +36,6 @@ I love to do web design and development, and I'm very passionate about it, that'
 ![Profile views](https://gpvc.arturio.dev/main1479)  <img src="https://img.shields.io/github/followers/main1479?label=Follow" style=" float:left, margin-right:10px" />
 
 
-#### Codewars Profile
-
-<p style="margin-bottom:20px;" width="100%">
-<img align="left" src="https://www.codewars.com/users/mainul__islam/badges/large" style="margin-right:10px" />
-</p>
-.
 
 
 
