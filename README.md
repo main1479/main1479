@@ -26,9 +26,13 @@ Here are some ideas to get you started:
 </p>
 
 
-Hello there,
-I'm Mainul Islam, a passionate web designer & developer. I have pretty solid experience in frontend web development.
-I love to do web design and development, and I'm very passionate about it, that's why I have chosen web designing and development as my profession.
+Hi, I’m Mainul Islam – a frontend web developer with over 5 years of experience building clean, user-friendly, and scalable websites.
+
+I specialize in HTML, CSS, SCSS, JavaScript, React, and Next.js. I’ve worked with startups, agencies, and clients from around the world to create fast, responsive, and conversion-focused websites and A/B tests.
+
+What I enjoy most is writing clean, modular code that’s easy to maintain and scale. I'm always exploring new tools and techniques to improve my work and stay up to date with the industry.
+
+If you're looking for someone who’s reliable, detail-oriented, and passionate about frontend development – I’d love to connect!
  
 
 
